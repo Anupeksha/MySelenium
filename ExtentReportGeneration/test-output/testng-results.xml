@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="843" started-at="2020-10-01T18:19:32 IST" finished-at="2020-10-01T18:19:33 IST">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="791" started-at="2020-10-01T18:19:32 IST" finished-at="2020-10-01T18:19:33 IST">
+      <class name="Testcases.LoginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:Testcases.LoginTest@305fd85d]" name="init" is-config="true" duration-ms="207" started-at="2020-10-01T18:19:32 IST" finished-at="2020-10-01T18:19:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Testcases.LoginTest@305fd85d]" name="login" duration-ms="17" started-at="2020-10-01T18:19:32 IST" finished-at="2020-10-01T18:19:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Testcases.LoginTest@305fd85d]" name="quit" is-config="true" duration-ms="503" started-at="2020-10-01T18:19:32 IST" finished-at="2020-10-01T18:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Testcases.LoginTest -->
+    </test> <!-- Login -->
+    <test name="Signup" duration-ms="34" started-at="2020-10-01T18:19:33 IST" finished-at="2020-10-01T18:19:33 IST">
+      <class name="Testcases.SignUp">
+        <test-method status="PASS" signature="init()[pri:0, instance:Testcases.SignUp@c46bcd4]" name="init" is-config="true" duration-ms="2" started-at="2020-10-01T18:19:33 IST" finished-at="2020-10-01T18:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Testcases.SignUp@c46bcd4]" name="login" duration-ms="8" started-at="2020-10-01T18:19:33 IST" finished-at="2020-10-01T18:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Testcases.SignUp@c46bcd4]" name="quit" is-config="true" duration-ms="15" started-at="2020-10-01T18:19:33 IST" finished-at="2020-10-01T18:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Testcases.SignUp -->
+    </test> <!-- Signup -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2020-09-30T22:40:16 IST" finished-at="2020-09-30T22:40:16 IST">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite name="SuiteA" duration-ms="1085" started-at="2020-09-30T22:40:14 IST" finished-at="2020-09-30T22:40:15 IST">
+    <groups>
+    </groups>
+    <test name="testA" duration-ms="1085" started-at="2020-09-30T22:40:14 IST" finished-at="2020-09-30T22:40:15 IST">
+      <class name="SuiteA.TestA">
+        <test-method status="PASS" signature="testA()[pri:0, instance:SuiteA.TestA@6c3708b3]" name="testA" duration-ms="1017" started-at="2020-09-30T22:40:14 IST" finished-at="2020-09-30T22:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- SuiteA.TestA -->
+    </test> <!-- testA -->
+  </suite> <!-- SuiteA -->
+  <suite name="SuiteB" duration-ms="1017" started-at="2020-09-30T22:40:15 IST" finished-at="2020-09-30T22:40:16 IST">
+    <groups>
+    </groups>
+    <test name="testB" duration-ms="1017" started-at="2020-09-30T22:40:15 IST" finished-at="2020-09-30T22:40:16 IST">
+      <class name="SuiteB.TestB">
+        <test-method status="PASS" signature="testA()[pri:0, instance:SuiteB.TestB@3cef309d]" name="testA" duration-ms="1003" started-at="2020-09-30T22:40:15 IST" finished-at="2020-09-30T22:40:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- SuiteB.TestB -->
+    </test> <!-- testB -->
+  </suite> <!-- SuiteB -->
+</testng-results>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="2" hostname="anu-Latitude-3480" id="0" name="CustomProjectRunner" package="Testcases" skipped="1" tests="8" time="0.083" timestamp="2020-09-25T06:20:06">
+      <properties>
+          <property name="java.vendor" value="Private Build" />
+
+          <property name="env.SESSION_MANAGER" value="local/anu-Latitude-3480:@/tmp/.ICE-unix/2076,unix/anu-Latitude-3480:/tmp/.ICE-unix/2076" />
+
+          <property name="env.IM_CONFIG_PHASE" value="1" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="start.time" value="09/25/2020 11:50 AM" />
+
+          <property name="env.QT_IM_MODULE" value="ibus" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="env.GTK2_MODULES" value="overlay-scrollbar" />
+
+          <property name="test.reportsDir" value="/home/anu/workspace/New_Eclipse/Junit/Reports" />
+
+          <property name="os.name" value="Linux" />
+
+          <property name="env.UPSTART_SESSION" value="unix:abstract=/com/ubuntu/upstart-session/1001/1675" />
+
+          <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes" />
+
+          <property name="ws.home" value="/home/anu/workspace/New_Eclipse/Junit" />
+
+          <property name="env.PWD" value="/home/anu/workspace/New_Eclipse/Junit" />
+
+          <property name="TODAY" value="September 25 2020" />
+
+          <property name="sun.desktop" value="gnome" />
+
+          <property name="env.LANG" value="en_IN" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="env.XDG_MENU_PREFIX" value="gnome-" />
+
+          <property name="ant.home" value="/usr/share/ant" />
+
+          <property name="java.runtime.version" value="1.8.0_265-8u265-b01-0ubuntu2~16.04-b01" />
+
+          <property name="ant.file.type.Junit_Project_tolearn_Ant" value="file" />
+
+          <property name="env.GTK_IM_MODULE" value="ibus" />
+
+          <property name="env.QT_LINUX_ACCESSIBILITY_ALWAYS_ON" value="1" />
+
+          <property name="env.DEFAULTS_PATH" value="/usr/share/gconf/ubuntu.default.path" />
+
+          <property name="test.classpath" value="/home/anu/Selenium Learning/Temp/junit.jar:/home/anu/Selenium Learning/Temp/org.hamcrest.core_1.3.0.v201303031735.jar" />
+
+          <property name="env.XDG_VTNR" value="7" />
+
+          <property name="env.DISPLAY" value=":0" />
+
+          <property name="user.name" value="anu" />
+
+          <property name="env.QT4_IM_MODULE" value="xim" />
+
+          <property name="env.USER" value="anu" />
+
+          <property name="env.SHELL" value="/bin/bash" />
+
+          <property name="env.DESKTOP_SESSION" value="ubuntu" />
+
+          <property name="env.XDG_DATA_DIRS" value="/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/var/lib/snapd/desktop" />
+
+          <property name="env.PATH" value="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/share/maven:/snap/bin:/usr/share/maven/bin" />
+
+          <property name="env.XDG_CURRENT_DESKTOP" value="Unity" />
+
+          <property name="user.language" value="en" />
+
+          <property name="env.XDG_SESSION_DESKTOP" value="ubuntu" />
+
+          <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64" />
+
+          <property name="ant.project.default-target" value="usage" />
+
+          <property name="ant.project.name" value="Junit_Project_tolearn_Ant" />
+
+          <property name="DSTAMP" value="20200925" />
+
+          <property name="java.version" value="1.8.0_265" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="env.DBUS_SESSION_BUS_ADDRESS" value="unix:abstract=/tmp/dbus-JK7sqX2z8P" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="env.COMPIZ_CONFIG_PROFILE" value="ubuntu" />
+
+          <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed" />
+
+          <property name="sun.cpu.isalist" value="" />
+
+          <property name="sun.jnu.encoding" value="UTF-8" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="env.SHLVL" value="0" />
+
+          <property name="file.separator" value="/" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="env.GNOME_DESKTOP_SESSION_ID" value="this-is-deprecated" />
+
+          <property name="java.class.version" value="52.0" />
+
+          <property name="env.GDMSESSION" value="ubuntu" />
+
+          <property name="user.country" value="IN" />
+
+          <property name="env.GNOME_KEYRING_PID" value="" />
+
+          <property name="java.home" value="/usr/lib/jvm/java-8-openjdk-amd64/jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="env.LOGNAME" value="anu" />
+
+          <property name="ant.file" value="/home/anu/workspace/New_Eclipse/Junit/build.xml" />
+
+          <property name="os.version" value="4.4.0-189-generic" />
+
+          <property name="path.separator" value=":" />
+
+          <property name="java.vm.version" value="25.265-b01" />
+
+          <property name="env.LANGUAGE" value="en_IN:en" />
+
+          <property name="ant.library.dir" value="/usr/share/ant/lib" />
+
+          <property name="env.XDG_SESSION_PATH" value="/org/freedesktop/DisplayManager/Session0" />
+
+          <property name="env.QT_QPA_PLATFORMTHEME" value="appmenu-qt5" />
+
+          <property name="env.XDG_SESSION_TYPE" value="x11" />
+
+          <property name="env.SESSIONTYPE" value="gnome-session" />
+
+          <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+
+          <property name="env.XMODIFIERS" value="@im=ibus" />
+
+          <property name="env.GDM_LANG" value="en_US" />
+
+          <property name="test.dest" value="/home/anu/workspace/New_Eclipse/Junit/build" />
+
+          <property name="user.home" value="/home/anu" />
+
+          <property name="env.JOB" value="dbus" />
+
+          <property name="env.OLDPWD" value="/home/anu/workspace/New_Eclipse/Junit" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="env.M2_HOME" value="/usr/share/maven" />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib" />
+
+          <property name="env.GIO_LAUNCHED_DESKTOP_FILE" value="/etc/xdg/autostart/nautilus-autostart.desktop" />
+
+          <property name="java.vm.vendor" value="Private Build" />
+
+          <property name="env.XDG_SEAT" value="seat0" />
+
+          <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on July 20 2018" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Testcases.CustomProjectRunner skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/anu/workspace/New_Eclipse/Junit/Reports/TEST-Testcases.CustomProjectRunner.xml crashfile=/home/anu/workspace/New_Eclipse/Junit/junitvmwatcher3723187712779880790.properties propsfile=/home/anu/workspace/New_Eclipse/Junit/junit8368435143646936081.properties" />
+
+          <property name="java.class.path" value="/home/anu/workspace/New_Eclipse/Junit/build:/home/anu/Selenium Learning/Temp/junit.jar:/home/anu/Selenium Learning/Temp/org.hamcrest.core_1.3.0.v201303031735.jar:/usr/share/ant/lib/junit.jar:/usr/share/java/ant-launcher-1.9.6.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-junit4.jar" />
+
+          <property name="env.XDG_SESSION_ID" value="c6" />
+
+          <property name="TSTAMP" value="1150" />
+
+          <property name="ws.jars" value="/home/anu/Selenium Learning/Temp" />
+
+          <property name="env.QT_ACCESSIBILITY" value="1" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="ant.file.type" value="file" />
+
+          <property name="java.vm.specification.version" value="1.8" />
+
+          <property name="sun.os.patch.level" value="unknown" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="env.HOME" value="/home/anu" />
+
+          <property name="java.io.tmpdir" value="/tmp" />
+
+          <property name="env.XDG_SEAT_PATH" value="/org/freedesktop/DisplayManager/Seat0" />
+
+          <property name="test.src" value="/home/anu/workspace/New_Eclipse/Junit/src" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="env.SSH_AUTH_SOCK" value="/run/user/1001/keyring/ssh" />
+
+          <property name="env.CLUTTER_IM_MODULE" value="xim" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="env.INSTANCE" value="" />
+
+          <property name="env.XDG_RUNTIME_DIR" value="/run/user/1001" />
+
+          <property name="java.ext.dirs" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext" />
+
+          <property name="user.dir" value="/home/anu/workspace/New_Eclipse/Junit" />
+
+          <property name="env.XAUTHORITY" value="/home/anu/.Xauthority" />
+
+          <property name="env.SESSION" value="ubuntu" />
+
+          <property name="ant.file.Junit_Project_tolearn_Ant" value="/home/anu/workspace/New_Eclipse/Junit/build.xml" />
+
+          <property name="env.MANDATORY_PATH" value="/usr/share/gconf/ubuntu.mandatory.path" />
+
+          <property name="env.GTK_MODULES" value="gail:atk-bridge:unity-gtk-module" />
+
+          <property name="line.separator" value="&#xa;" />
+
+          <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+
+          <property name="ANT" value="${env.ANT_HOME}/bin/ant" />
+
+          <property name="env.XDG_GREETER_DATA_DIR" value="/var/lib/lightdm-data/anu" />
+
+          <property name="basedir" value="/home/anu/workspace/New_Eclipse/Junit" />
+
+          <property name="ant.java.version" value="1.8" />
+
+          <property name="ant.core.lib" value="/usr/share/ant/lib/ant.jar" />
+
+          <property name="file.encoding" value="UTF-8" />
+
+          <property name="env.DESKTOP_MODE" value="1" />
+
+          <property name="env.GPG_AGENT_INFO" value="/home/anu/.gnupg/S.gpg-agent:0:1" />
+
+          <property name="env.GIO_LAUNCHED_DESKTOP_FILE_PID" value="2288" />
+
+          <property name="java.specification.version" value="1.8" />
+
+          <property name="env.GNOME_KEYRING_CONTROL" value="" />
+
+          <property name="ant.project.invoked-targets" value="compile,run" />
+
+          <property name="env.XDG_CONFIG_DIRS" value="/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg" />
+
+      </properties>
+
+      <testcase classname="Testcases.LoginTest" name="loginTest[0]" time="0.0" />
+
+      <testcase classname="Testcases.LoginTest" name="loginTest[1]" time="0.0" />
+
+      <testcase classname="Testcases.LoginTest" name="loginTest[2]" time="0.0" />
+
+      <testcase classname="Testcases.LoginTest" name="loginTest[3]" time="0.0" />
+
+      <testcase classname="Testcases.ShopMobilePhone" name="CheckOutOrder" time="0.009">
+          <skipped message="got: &lt;false&gt;, expected: is &lt;true&gt;" />
+
+      </testcase>
+
+      <testcase classname="Testcases.ShopMobilePhone" name="SearchForMobile" time="0.001" />
+
+      <testcase classname="Testcases.ShopMobilePhone" name="SelectMobile" time="0.0" />
+
+      <testcase classname="Testcases.Validations" name="validate" time="0.012">
+          <failure message="expected:&lt;A[]&gt; but was:&lt;A[kl]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;A[]&gt; but was:&lt;A[kl]&gt;
+	at Testcases.Validations.validate(Validations.java:21)
+</failure>
+
+          <failure message="The link isn&apos;t available" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: The link isn&apos;t available
+	at Testcases.Validations.validate(Validations.java:41)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[U1: P1  : Firefox
+U2: P2  : Chromium
+U3: P3  : Explorer
+U4: P4  : Safari
+Searching for Mobile
+Selecting Mobile
+Start
+Some error occured  expected:<A[]> but was:<A[kl]>
+End
+Some error occured  The link isn't available
+]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>

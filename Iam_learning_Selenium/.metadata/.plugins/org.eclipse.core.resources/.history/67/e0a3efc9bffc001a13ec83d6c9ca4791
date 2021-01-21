@@ -1,0 +1,14 @@
+package Learnmaven.com;
+
+public class Checker 
+{
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Heloo");
+		Xls_Reader xls=new Xls_Reader("/home/anu/workspace/New_Eclipse/MyMaven/Data.xlsx");
+		int row = xls.getRowCount("PurchaseProductTest");
+		System.out.println(row);
+	}
+
+}

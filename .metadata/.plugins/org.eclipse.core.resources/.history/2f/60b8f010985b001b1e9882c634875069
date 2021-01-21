@@ -1,0 +1,8 @@
+package snippet;
+
+public class Snippet {
+	public static void main(String[] args) {
+		/home/anu/workspace/New_Eclipse/ParallelTestNGExeMaven/pom.xml
+	}
+}
+

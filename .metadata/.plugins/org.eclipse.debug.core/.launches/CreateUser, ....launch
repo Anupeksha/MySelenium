@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TestNG"/>
+<mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS">
+<mapEntry key="Testcases.CreateUser" value="createUser;getData"/>
+<mapEntry key="Testcases.LoginTest" value="Login_Test;beforeM;init;Logout;afterM;end"/>
+<mapEntry key="Testcases.SearchandPurchasePhoneTest" value="Search;SelectPhone;Purchase"/>
+<mapEntry key="Testcases.ValidateUserReg_Test" value="Register"/>
+</mapAttribute>
+<listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+<listEntry value="Testcases.CreateUser"/>
+<listEntry value="Testcases.SearchandPurchasePhoneTest"/>
+<listEntry value="Testcases.LoginTest"/>
+<listEntry value="Testcases.ValidateUserReg_Test"/>
+</listAttribute>
+<listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+<listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+<stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+<intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>

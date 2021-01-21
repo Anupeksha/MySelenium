@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: Testcases.Validations_Test
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.038 s <<< FAILURE! - in Testcases.Validations_Test
+validate(Testcases.Validations_Test)  Time elapsed: 0.02 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<A[]> but was:<A[kl]>
+	at Testcases.Validations_Test.validate(Validations_Test.java:21)
+
+validate(Testcases.Validations_Test)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The link isn't available
+	at Testcases.Validations_Test.validate(Validations_Test.java:41)
+

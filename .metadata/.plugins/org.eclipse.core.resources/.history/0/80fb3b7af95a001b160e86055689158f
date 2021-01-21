@@ -1,0 +1,8 @@
+package snippet;
+
+public class Snippet {
+	public static void main(String[] args) {
+		<suiteXmlFile>src/test/resources/testng_A.xml</suiteXmlFile>
+	}
+}
+

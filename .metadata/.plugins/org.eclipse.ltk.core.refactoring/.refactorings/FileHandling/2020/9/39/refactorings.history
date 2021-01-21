@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Xls_Reader.java&apos; to &apos;TestingMavenProject/src/main/java/com.in.Maventest&apos;&#x0A;- Original project: &apos;FileHandling&apos;&#x0A;- Destination element: &apos;TestingMavenProject/src/main/java/com.in.Maventest&apos;&#x0A;- Original element: &apos;XLS.Xls_Reader.java&apos;" description="Copy compilation unit" destination="=TestingMavenProject/src\/main\/java&lt;com.in.Maventest" element1="/src&lt;XLS{Xls_Reader.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1600592110114" units="1" version="1.0"/>
+</session>
